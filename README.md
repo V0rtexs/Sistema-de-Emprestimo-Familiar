@@ -3,6 +3,7 @@ Sistema de Controle de Empréstimos Familiares (C# Console)
 Este projeto é uma aplicação de console desenvolvida em C# para gerenciar empréstimos financeiros entre membros de uma família. O foco principal é garantir a transparência e a integridade das operações através de assinaturas digitais (senhas) e cálculos automáticos de reajuste financeiro.
 
 🚀 Funcionalidades Principais
+
 -Gestão de Usuários: Cadastro de familiares com nomes imutáveis para garantir a integridade dos registros.
 
 -Registro de Empréstimos: Cadastro detalhado contendo data, credor, devedor e valor original.
